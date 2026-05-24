@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    
+}
+a {
+    text-decoration: underline;
+    color: black;
+}
+
+ul {
+    position: sticky;
+    top: 0;
+}
+
+header {
+    background-color:  	#fdf6e8;
+}
+
+nav{
+    display: flex;
+    flex-direction: inline;
+}
