@@ -43,5 +43,8 @@ nav{
 }
 
 .search-icon {
-    opacity: 0.5;
+    width: 25px;
+    height: 25px;
+    align-items: center;
+    padding: 5px;
 }
