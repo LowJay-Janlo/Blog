@@ -3,9 +3,6 @@
     padding: 0;
 }
 
-body {
-    
-}
 a {
     text-decoration: underline;
     color: black;
@@ -22,5 +19,29 @@ header {
 
 nav{
     display: flex;
-    flex-direction: inline;
+    padding: 10px;
+}
+
+.nav-btn {
+    padding: 10px;
+    border-radius: 6px;
+    background-color: #FF4500;
+    border-color: #FF4500;
+    color: white;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+.select-btn {
+    display: flex;
+    padding: 5px;
+}
+
+.logo {
+    width: 100px;
+    height: 50px;
+}
+
+.search-icon {
+    opacity: 0.5;
 }
